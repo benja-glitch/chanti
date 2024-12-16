@@ -4446,3 +4446,23 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [16Dec2024 01:23:50.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WraithEntity['Darktouched Wraith'/1065, l='ServerLevel[world]', x=-421.17, y=105.00, z=-513.60] died: Darktouched Wraith burned to death
 [16Dec2024 01:23:51.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Apothic Affixes]
 [16Dec2024 01:23:51.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [He Wasn't So Strong]
+[16Dec2024 01:36:20.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Spider
+[16Dec2024 01:36:20.680] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Dec2024 01:36:20.682] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[16Dec2024 01:36:20.682] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Dec2024 01:36:20.682] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Dec2024 01:36:20.683] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Dec2024 01:36:22.802] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Dec2024 01:36:22.803] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[16Dec2024 01:36:22.803] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Dec2024 01:36:22.804] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Dec2024 01:36:22.804] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Dec2024 01:36:24.959] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Dec2024 01:36:24.960] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[16Dec2024 01:36:24.960] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Dec2024 01:36:24.960] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Dec2024 01:36:24.961] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[16Dec2024 01:36:57.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 was slain by Spider
+[16Dec2024 01:37:32.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: B3njaxx_11 lost connection: Disconnected
+[16Dec2024 01:37:32.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 left the game
+[16Dec2024 01:37:32.380] [Server thread/INFO] [survive/]: Removing Client (B3njaxx_11) From Survive Data Sync List

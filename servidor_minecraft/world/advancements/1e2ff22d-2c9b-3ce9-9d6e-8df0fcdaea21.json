@@ -1,4 +1,10 @@
 {
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-12-16 01:36:20 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/cyan_washcloth": {
     "criteria": {
       "has_white_washcloth": "2024-12-16 01:11:42 +0000"
@@ -219,6 +225,12 @@
   "survive:recipes/main/ice": {
     "criteria": {
       "has_cubes": "2024-12-16 01:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-16 01:36:20 +0000"
     },
     "done": true
   },
