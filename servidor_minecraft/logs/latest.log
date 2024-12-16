@@ -4443,3 +4443,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [16Dec2024 01:12:01.506] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3834ms or 76 ticks behind
 [16Dec2024 01:12:12.552] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: B3njaxx_11 -> Global
 [16Dec2024 01:12:12.570] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Dec2024 01:23:50.886] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WraithEntity['Darktouched Wraith'/1065, l='ServerLevel[world]', x=-421.17, y=105.00, z=-513.60] died: Darktouched Wraith burned to death
+[16Dec2024 01:23:51.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has made the advancement [Apothic Affixes]
+[16Dec2024 01:23:51.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: B3njaxx_11 has completed the challenge [He Wasn't So Strong]

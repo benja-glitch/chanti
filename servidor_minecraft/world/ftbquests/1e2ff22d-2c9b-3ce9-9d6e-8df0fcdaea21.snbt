@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "1e2ff22d2c9b3ce99d6e8df0fcdaea21"
+	name: "B3njaxx_11#1e2ff22d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
