@@ -174,9 +174,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "forge:ash": "2024-12-16 01:23:51 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/soap_bottle": {
     "criteria": {
       "has_ingredients": "2024-12-16 01:11:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-16 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2024-12-16 01:23:51 +0000"
     },
     "done": true
   },
@@ -252,6 +270,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-16 01:23:51 +0000"
+    },
+    "done": true
+  },
   "survive:recipes/main/wool_pants": {
     "criteria": {
       "has_wool": "2024-12-16 01:11:42 +0000"
@@ -267,6 +291,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-16 01:11:42 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-16 01:23:51 +0000"
     },
     "done": true
   },
