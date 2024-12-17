@@ -33,10 +33,7 @@
   },
   "loot": {
     "entries": {
-      "[\\w]+:chests\\/[\\w_\\/]*(end|warp)[\\w_\\/]*": 0.033
+      "[\\w]+:chests\\/[\\w_\\/]*(end|warp)[\\w_\\/]*": 0.025
     }
-  },
-  "style": {
-    "style": "DEFAULT"
   }
 }
